@@ -1,0 +1,8 @@
+{
+  "name": "Trading Knowledge Academy",
+  "description": "Forex and crypto trading academy specializing in ICT \u0026 CRT strategies, mentorship programs, interactive risk calculators, and an AI trading advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
